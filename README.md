@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hey, I'm Pride_ad 👋
-
-**Epitech student · Cloud and AI · Aspiring polymath**
+<img src="assets/banner.svg" alt="NASH-ad - Epitech, Cloud and AI, Aspiring polymath" width="100%" />
 
 📍 Cotonou, Bénin &nbsp;·&nbsp; 🎓 Epitech, 2nd year
 
@@ -65,5 +63,7 @@ My goal: become a genuinely polyvalent engineer, solid on systems and cloud, cur
 <div align="center">
 
 *"Stay curious. Go deep. Ship it."* ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=110&section=footer" width="100%" alt="" />
 
 </div>
